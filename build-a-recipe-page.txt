@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <title>
+     Senegalese fish rice
+   </title>
+   <meta charset="UTF-8">
+ </head>
+ <body>
+     <h1>Fruit salad</h1>
+     <p>
+       This is my all-time favorite fruit salad recipe—a fresh, vibrant, and      delicious treat I love making on sunny days! Quick, easy, and endlessly customizable, this version balances sweet and tangy flavors perfectly. I always add a sprinkle of fresh mint and a drizzle of honey for an extra burst of freshness. A true joy to share with family and friends! 🍓🍍💛
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Ffr%2Fsearch%2Fsalade-de-fruit&psig=AOvVaw0dsJY-JUlB80VWQGPWarj0&ust=1743220932962000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjroKHyq4wDFQAAAAAdAAAAABAE" alt="fruit salad contained in a glass saucer">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.fr%2Fphotos%2Fsalade-de-fruits&psig=AOvVaw11iSYVY2vmrdLp_C4qQVth&ust=1743221699714000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjO-rP1q4wDFQAAAAAdAAAAABAW" alt="image showing a woman eating a fruit salad">
+     </p>
+     <p>
+     <h2>Ingredients</h2>
+     <ul>
+       <li>1 apple</li>
+       <li>2 bananas</li>
+       <li>1 orange(or clementines)</li>
+       <li>100g pineapple (fresh or chunks)</li>
+       <li>1 peach/nectarine</li>
+       <li>100g strawberries</li>
+       <li>1 kiwi</li>
+       <li>100g grapes (green/red)</li>
+       <li>1 mango (luxury option)</li>
+       <li>juice of 1 lemon (to prevent browing)</li>
+       <li>2 tbsp sugar (or honey/maple syrup)</li>
+       <li>100ml orange juice (or tropical juice) </li>
+       <li>fresh mint/basil leaves</li>
+       <li>1 tsp vanila or cinnamon</li>
+       <li>1 tbsp rum or Grand Marnier (for adults)</li>
+     </ul>
+     <h2>Instructions</h2>
+     <ol>
+       <li>Wash all fruits thoroughly.</li>
+       <li>Peel (if needed) and cut into bite-sized pieces (~2 cm / ¾ inch).
+
+</li>
+       <li>Remove seeds, stems, and pits.</li>
+       <li>oss apples, bananas, and pears with lemon juice immediately after cutting.</li>
+       <li>Combine all fruits in a large bowl.</li>
+       <li>Add sugar/honey and orange juice (or other liquid sweetener).</li>
+       <li>Fold in mint or vanilla (if using).</li>
+       <li>over and refrigerate for at least 1 hour (up to 4 hours for best flavor).</li>
+       <li>Garnish with fresh mint, coconut flakes, or nuts.</li>
+       <li>Optional: Drizzle with yogurt, chocolate, or honey.</li>
+      <li>✔ Best eaten fresh (within 12 hours).</li>
+      <li>✔ Adjust sweetness based on fruit ripeness.</li>
+      <li>✔ Add delicate fruits (like berries) just before serving.</li>
+      good tasting
+    
+     </ol>
+   </p>
+ </body>
+</html>
